@@ -1,6 +1,6 @@
 {
  
-  "name": "appcontact",
+  "name": "contac-book",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -30,8 +30,7 @@
  "homepage":"https://safaezouadi.github.io/contac-book",
 
 
-"scripts": {
-    
+"scripts": {  
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
